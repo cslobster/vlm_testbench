@@ -1,0 +1,514 @@
+[
+  {
+    "instruction": "Can you recommend a chocolate cake recipe for two?",
+    "category": null
+  },
+  {
+    "instruction": "Ask a question about consumer rights",
+    "category": null
+  },
+  {
+    "instruction": "Give me 3 examples of a vocabulary word that means \"determined\".",
+    "category": null
+  },
+  {
+    "instruction": "Edit the following sentence by replacing the word \"excellent\" with a similar meaning:\n\n\"The coffee was excellent\"",
+    "category": null
+  },
+  {
+    "instruction": "Put together an outfit for a dinner date.",
+    "category": null
+  },
+  {
+    "instruction": "Edit the sentence \"I'm running late so I quickly ate breakfast\" to correct the grammar",
+    "category": null
+  },
+  {
+    "instruction": "Name two health benefits of eating apples",
+    "category": null
+  },
+  {
+    "instruction": "Describe the importance of positive thinking",
+    "category": null
+  },
+  {
+    "instruction": "Describe a feature a smartphone could have that would make it easier to take care of the environment.",
+    "category": null
+  },
+  {
+    "instruction": "Create a poem with 4 lines that portrays the beauty of sunsets.",
+    "category": null
+  },
+  {
+    "instruction": "Describe a specific emotion using five words.",
+    "category": null
+  },
+  {
+    "instruction": "What is the most efficient approach to reducing carbon emissions?",
+    "category": null
+  },
+  {
+    "instruction": "Compare a bacteria cell to a plant cell.",
+    "category": null
+  },
+  {
+    "instruction": "Give me a list of 5 organisations that provide services for refugees in the United States.",
+    "category": null
+  },
+  {
+    "instruction": "Generate a random example of an IPv4 address.",
+    "category": null
+  },
+  {
+    "instruction": "Generate a speech outline for expressing your opinion on the issue of online privacy.",
+    "category": null
+  },
+  {
+    "instruction": "Generate a headline describing a current news article.",
+    "category": null
+  },
+  {
+    "instruction": "What is the latest development in Artificial Intelligence?",
+    "category": null
+  },
+  {
+    "instruction": "Explain how information can be stored in a database",
+    "category": null
+  },
+  {
+    "instruction": "Generate a sentence which describes the relationship between Elon Musk and SpaceX.",
+    "category": null
+  },
+  {
+    "instruction": "Provide the name of a famous person who had a positive influence in the world.",
+    "category": null
+  },
+  {
+    "instruction": "Create a metaphor that describes loneliness",
+    "category": null
+  },
+  {
+    "instruction": "Summarize the most important characteristics of a good leader.",
+    "category": null
+  },
+  {
+    "instruction": "Differentiate between a deviated septum and a deviated nasal spine.",
+    "category": null
+  },
+  {
+    "instruction": "Write a script to explain the process of signing up for an online course.",
+    "category": null
+  },
+  {
+    "instruction": "Describe a medicine that is used to treat an ailment associated with the heart",
+    "category": null
+  },
+  {
+    "instruction": "Create a playlist of 10 songs that celebrates diversity and inclusion.",
+    "category": null
+  },
+  {
+    "instruction": "Why do rockets need an engine?",
+    "category": null
+  },
+  {
+    "instruction": "Find the similarities between these two words - 'flower' and 'bouquet'.",
+    "category": null
+  },
+  {
+    "instruction": "Make a list of three psychological techniques used in advertising.",
+    "category": null
+  },
+  {
+    "instruction": "Come up with a domain-specific metaphor to explain how a computer works",
+    "category": null
+  },
+  {
+    "instruction": "Identify 3 key problems with the current US healthcare system and propose solutions to those problems.",
+    "category": null
+  },
+  {
+    "instruction": "Describe the most used transportation device in Egypt",
+    "category": null
+  },
+  {
+    "instruction": "Construct a timeline of Galileo's life.",
+    "category": null
+  },
+  {
+    "instruction": "Create a strategy to increase the number of new customers by 30%.",
+    "category": null
+  },
+  {
+    "instruction": "Compose a 500-word essay on the themes of loneliness revealed in Ernest Hemingway's novel \"The Old Man and the Sea\".",
+    "category": null
+  },
+  {
+    "instruction": "Provide the name of five different types of flowers.",
+    "category": null
+  },
+  {
+    "instruction": "List five herbs that grow easily.",
+    "category": null
+  },
+  {
+    "instruction": "What is the history behind the painting 'The Starry Night'?",
+    "category": null
+  },
+  {
+    "instruction": "Suggest three techniques for improving online learning",
+    "category": null
+  },
+  {
+    "instruction": "Create 5 reference resources that you'll use to complete your assignment.",
+    "category": null
+  },
+  {
+    "instruction": "Summarize the debate about global warming.",
+    "category": null
+  },
+  {
+    "instruction": "Analyze the movie \"Back to the Future\" and identify the elements of the story that make it a successful film.",
+    "category": null
+  },
+  {
+    "instruction": "Generate a sentence that explains the importance of keeping your mental health in check.",
+    "category": null
+  },
+  {
+    "instruction": "Edit this text to make it more descriptive: \"He likes to play basketball.\"",
+    "category": null
+  },
+  {
+    "instruction": "Curate 5 examples of effective communication techniques.",
+    "category": null
+  },
+  {
+    "instruction": "Give me a recipe for dumplings.",
+    "category": null
+  },
+  {
+    "instruction": "Describe the type of job or career that is attractive to you.",
+    "category": null
+  },
+  {
+    "instruction": "List the components required for building a computer.",
+    "category": null
+  },
+  {
+    "instruction": "Name the software engineering design pattern and give the definition of it.",
+    "category": null
+  },
+  {
+    "instruction": "Generate a sentence using the following words: rose, birthday, summer.",
+    "category": null
+  },
+  {
+    "instruction": "Generate a piece of dialog between two characters discussing the current weather.",
+    "category": null
+  },
+  {
+    "instruction": "Invent a new word with a definition.",
+    "category": null
+  },
+  {
+    "instruction": "Name two nations that compete in the FIFA World Cup",
+    "category": null
+  },
+  {
+    "instruction": "Which musical instrument is known as the King of Instruments?",
+    "category": null
+  },
+  {
+    "instruction": "Generate a script for a radio ad.",
+    "category": null
+  },
+  {
+    "instruction": "Identify the following mammal: Panther",
+    "category": null
+  },
+  {
+    "instruction": "What is the technology stack for developing a web application?",
+    "category": null
+  },
+  {
+    "instruction": "Create a poetic stanza on the topic of love",
+    "category": null
+  },
+  {
+    "instruction": "Design an algorithm to identify a person's age from their date of birth.",
+    "category": null
+  },
+  {
+    "instruction": "Analyze the causes of the U.S civil war.",
+    "category": null
+  },
+  {
+    "instruction": "How can email communication be more efficient?",
+    "category": null
+  },
+  {
+    "instruction": "Generate a title for a book about personal growth.",
+    "category": null
+  },
+  {
+    "instruction": "Generate a unique idea for a birthday present for a 6 year old.",
+    "category": null
+  },
+  {
+    "instruction": "Name the capital cities in the states of New York and California",
+    "category": null
+  },
+  {
+    "instruction": "How would you explain the concept of Darwinism to an 8th grader?",
+    "category": null
+  },
+  {
+    "instruction": "Provide a counterargument to the statement \"Genetically modified foods are unhealthy.\"",
+    "category": null
+  },
+  {
+    "instruction": "Generate a creative solution to improve environmental sustainability.",
+    "category": null
+  },
+  {
+    "instruction": "What is the longitude and latitude of Beijing, China?",
+    "category": null
+  },
+  {
+    "instruction": "Tell me about a particular type of tree that grows in your region.",
+    "category": null
+  },
+  {
+    "instruction": "Select a quote from a famous author.",
+    "category": null
+  },
+  {
+    "instruction": "Compose a story involving a mouse and a cat.",
+    "category": null
+  },
+  {
+    "instruction": "Describe a method for organizing a desk for maximum productivity.",
+    "category": null
+  },
+  {
+    "instruction": "Calculate the value of sin(8)",
+    "category": null
+  },
+  {
+    "instruction": "Generate a list of questions that could be used to survey a customer\u2019s satisfaction level.",
+    "category": null
+  },
+  {
+    "instruction": "What is the difference between foreign policy and domestic policy?",
+    "category": null
+  },
+  {
+    "instruction": "Predict the median age of London.",
+    "category": null
+  },
+  {
+    "instruction": "Generate a pun related to solar energy.",
+    "category": null
+  },
+  {
+    "instruction": "Create five descriptors that describe the smell of churros.",
+    "category": null
+  },
+  {
+    "instruction": "Tell me the title of the most popular song released in 2020 so far.",
+    "category": null
+  },
+  {
+    "instruction": "Name a sport which is played indoors.",
+    "category": null
+  },
+  {
+    "instruction": "Generate a story with a title \"The Adventure of Shadowman\"",
+    "category": null
+  },
+  {
+    "instruction": "Generate a sentence with an imperative verb and a reference to the letter 'g'.",
+    "category": null
+  },
+  {
+    "instruction": "Write 5 ideas for a unique birthday gift.",
+    "category": null
+  },
+  {
+    "instruction": "Identify the similarities and differences between a cat and a dog.",
+    "category": null
+  },
+  {
+    "instruction": "Create a headline for this article: \"The rise of online shopping during the pandemic.\"",
+    "category": null
+  },
+  {
+    "instruction": "Describe the importance of collaboration in the classroom.",
+    "category": null
+  },
+  {
+    "instruction": "Come up with three different ways to save money.",
+    "category": null
+  },
+  {
+    "instruction": "Write a comparison of iPhone and Android phone.",
+    "category": null
+  },
+  {
+    "instruction": "Describe an elephant's physical features.",
+    "category": null
+  },
+  {
+    "instruction": "Give me an example of an instance where the rule of law was broken in history.",
+    "category": null
+  },
+  {
+    "instruction": "Transform this sentence into a question: The sun is bright today.",
+    "category": null
+  },
+  {
+    "instruction": "Create a poem about a sunrise",
+    "category": null
+  },
+  {
+    "instruction": "Tell me approximately how long it takes to get to the Moon from the earth.",
+    "category": null
+  },
+  {
+    "instruction": "Construct a sentence of at least 16 words that brings to light the beauty of spring.",
+    "category": null
+  },
+  {
+    "instruction": "Name the countries which experienced a decrease in education quality due to Covid-19",
+    "category": null
+  },
+  {
+    "instruction": "Describe the paperclip maximizer problem.",
+    "category": null
+  },
+  {
+    "instruction": "Provide an example of a sentence where you need to identify the subject and the predicate.",
+    "category": null
+  },
+  {
+    "instruction": "Find three reasons why people should stop using plastic bags.",
+    "category": null
+  },
+  {
+    "instruction": "Convert the RGB color (255,153,0) to a hex color code.",
+    "category": null
+  },
+  {
+    "instruction": "Explain the first amendment to me",
+    "category": null
+  },
+  {
+    "instruction": "Explain why rainbows are curved.",
+    "category": null
+  },
+  {
+    "instruction": "Explain what a three-point turn is.",
+    "category": null
+  },
+  {
+    "instruction": "Generate a joke involving a cat and a dog.",
+    "category": null
+  },
+  {
+    "instruction": "Name a famous artist from the Renaissance period.",
+    "category": null
+  },
+  {
+    "instruction": "Design a computer program to determine the frequency of strings in a given text.",
+    "category": null
+  },
+  {
+    "instruction": "Tell me a metaphor related to swimming.",
+    "category": null
+  },
+  {
+    "instruction": "Write a 3-page article discussing the impact of COVID-19 on the global economy",
+    "category": null
+  },
+  {
+    "instruction": "Name some actionable steps to conserve energy.",
+    "category": null
+  },
+  {
+    "instruction": "Convert this number into Roman numeral: 23",
+    "category": null
+  },
+  {
+    "instruction": "Find the top 5 tourist attractions of Tokyo.",
+    "category": null
+  },
+  {
+    "instruction": "Suggest a painting for a nursery wall that will complement blue furniture",
+    "category": null
+  },
+  {
+    "instruction": "Come up with three practical uses of the Internet.",
+    "category": null
+  },
+  {
+    "instruction": "Generate an expository essay of 300 words on the automobile industry.",
+    "category": null
+  },
+  {
+    "instruction": "Make a list of 5 powers a genie would grant your wishes.",
+    "category": null
+  },
+  {
+    "instruction": "Describe the benefits of using artificial intelligence in the banking sector.",
+    "category": null
+  },
+  {
+    "instruction": "Write a creative metaphor for fear.",
+    "category": null
+  },
+  {
+    "instruction": "Generate a code to print the elements of an array in reverse order",
+    "category": null
+  },
+  {
+    "instruction": "Write an anecdote about the power of optimism.",
+    "category": null
+  },
+  {
+    "instruction": "Generate an example of a metaphor using the words 'time' and 'river'.",
+    "category": null
+  },
+  {
+    "instruction": "Calculate the area of a triangle with a base 6 inches and a height 4 inches",
+    "category": null
+  },
+  {
+    "instruction": "Give an example of how technology has improved communication.",
+    "category": null
+  },
+  {
+    "instruction": "Describe a tool or technique you used to solve a seemingly intractable problem.",
+    "category": null
+  },
+  {
+    "instruction": "Create a list of data points describing a movie theater.",
+    "category": null
+  },
+  {
+    "instruction": "Outline the range of colors a television can display.",
+    "category": null
+  },
+  {
+    "instruction": "Identify 3 economic challenges of a developing country.",
+    "category": null
+  },
+  {
+    "instruction": "Explain how the internet works in two to three sentences.",
+    "category": null
+  },
+  {
+    "instruction": "Describe in one sentence what the term \"data visualization\" means.",
+    "category": null
+  }
+]

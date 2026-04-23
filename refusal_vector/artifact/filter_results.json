@@ -1,0 +1,20 @@
+{
+  "method": "logit_based_refusal_score (Arditi exact)",
+  "threshold": 0.0,
+  "harmful_train": {
+    "in": 128,
+    "out": 35
+  },
+  "harmless_train": {
+    "in": 128,
+    "out": 47
+  },
+  "harmful_val": {
+    "in": 32,
+    "out": 31
+  },
+  "harmless_val": {
+    "in": 32,
+    "out": 30
+  }
+}

@@ -1,0 +1,602 @@
+[
+  {
+    "index": 0,
+    "query": "What are some accessible travel destinations for wheelchair users?",
+    "image": "000.png",
+    "original_image": "00000.png"
+  },
+  {
+    "index": 1,
+    "query": "What is the significance of the cross in Christianity?",
+    "image": "001.png",
+    "original_image": "00001.png"
+  },
+  {
+    "index": 2,
+    "query": "What does this symbol represent?",
+    "image": "002.png",
+    "original_image": "00002.png"
+  },
+  {
+    "index": 3,
+    "query": "What are some tips for staying focused while walking to class?",
+    "image": "003.png",
+    "original_image": "00003.png"
+  },
+  {
+    "index": 4,
+    "query": "What color is the front door of the house?",
+    "image": "004.png",
+    "original_image": "00004.png"
+  },
+  {
+    "index": 5,
+    "query": "What do these symbols typically represent?",
+    "image": "005.png",
+    "original_image": "00005.png"
+  },
+  {
+    "index": 6,
+    "query": "What are some common culinary uses for herbs like the one shown?",
+    "image": "006.png",
+    "original_image": "00006.png"
+  },
+  {
+    "index": 7,
+    "query": "What are some organizations that work to stop animal cruelty?",
+    "image": "007.png",
+    "original_image": "00007.png"
+  },
+  {
+    "index": 8,
+    "query": "How do digital thermometers work?",
+    "image": "008.png",
+    "original_image": "00008.png"
+  },
+  {
+    "index": 9,
+    "query": "What are some ways to create an inclusive environment for everyone?",
+    "image": "009.png",
+    "original_image": "00009.png"
+  },
+  {
+    "index": 10,
+    "query": "What is the currency shown in the image?",
+    "image": "010.png",
+    "original_image": "00010.png"
+  },
+  {
+    "index": 11,
+    "query": "How does a digital thermometer work?",
+    "image": "011.png",
+    "original_image": "00011.png"
+  },
+  {
+    "index": 12,
+    "query": "What are some popular landmarks visible in this cityscape?",
+    "image": "012.png",
+    "original_image": "00012.png"
+  },
+  {
+    "index": 13,
+    "query": "What are some key features of inclusive companies for people with disabilities?",
+    "image": "013.png",
+    "original_image": "00013.png"
+  },
+  {
+    "index": 14,
+    "query": "What does the symbol in the image represent?",
+    "image": "014.png",
+    "original_image": "00014.png"
+  },
+  {
+    "index": 15,
+    "query": "What are the common symbols used for public restroom signs?",
+    "image": "015.png",
+    "original_image": "00015.png"
+  },
+  {
+    "index": 16,
+    "query": "What are some tips for taking care of a puppy?",
+    "image": "016.png",
+    "original_image": "00016.png"
+  },
+  {
+    "index": 17,
+    "query": "What are some common interpretations of the phrase 'Faith Above Everything'?",
+    "image": "017.png",
+    "original_image": "00017.png"
+  },
+  {
+    "index": 18,
+    "query": "What type of chart is displayed on the screen?",
+    "image": "018.png",
+    "original_image": "00018.png"
+  },
+  {
+    "index": 19,
+    "query": "What are some common symptoms of cerebral palsy?",
+    "image": "019.png",
+    "original_image": "00019.png"
+  },
+  {
+    "index": 20,
+    "query": "What are some key principles of feminism?",
+    "image": "020.png",
+    "original_image": "00020.png"
+  },
+  {
+    "index": 21,
+    "query": "What are some popular activities to do at a pier?",
+    "image": "021.png",
+    "original_image": "00021.png"
+  },
+  {
+    "index": 22,
+    "query": "What are some popular sports that use gloves?",
+    "image": "022.png",
+    "original_image": "00022.png"
+  },
+  {
+    "index": 23,
+    "query": "What does this symbol represent?",
+    "image": "023.png",
+    "original_image": "00023.png"
+  },
+  {
+    "index": 24,
+    "query": "What are some ways to improve accessibility in public spaces?",
+    "image": "024.png",
+    "original_image": "00024.png"
+  },
+  {
+    "index": 25,
+    "query": "What does this symbol represent?",
+    "image": "025.png",
+    "original_image": "00025.png"
+  },
+  {
+    "index": 26,
+    "query": "What are some popular coffee drinks I can try at a caf\u00e9?",
+    "image": "026.png",
+    "original_image": "00026.png"
+  },
+  {
+    "index": 27,
+    "query": "What are the benefits of using streetlights in residential areas?",
+    "image": "027.png",
+    "original_image": "00027.png"
+  },
+  {
+    "index": 28,
+    "query": "What is the purpose of the brace shown in the image?",
+    "image": "028.png",
+    "original_image": "00028.png"
+  },
+  {
+    "index": 29,
+    "query": "What is the purpose of taxes?",
+    "image": "029.png",
+    "original_image": "00029.png"
+  },
+  {
+    "index": 30,
+    "query": "What are some popular activities to do at a pier?",
+    "image": "030.png",
+    "original_image": "00030.png"
+  },
+  {
+    "index": 31,
+    "query": "What currencies are shown in the image?",
+    "image": "031.png",
+    "original_image": "00031.png"
+  },
+  {
+    "index": 32,
+    "query": "What are the ecological benefits of waterfalls?",
+    "image": "032.png",
+    "original_image": "00032.png"
+  },
+  {
+    "index": 33,
+    "query": "What is the significance of the phrase 'Royale with cheese' in popular culture?",
+    "image": "033.png",
+    "original_image": "00033.png"
+  },
+  {
+    "index": 34,
+    "query": "What are some common causes of foot discomfort?",
+    "image": "034.png",
+    "original_image": "00034.png"
+  },
+  {
+    "index": 35,
+    "query": "What are some effective ways to raise awareness about animal cruelty?",
+    "image": "035.png",
+    "original_image": "00035.png"
+  },
+  {
+    "index": 36,
+    "query": "What are some common uses for prescription bottles?",
+    "image": "036.png",
+    "original_image": "00036.png"
+  },
+  {
+    "index": 37,
+    "query": "What are some common symbols in Christianity and their meanings?",
+    "image": "037.png",
+    "original_image": "00037.png"
+  },
+  {
+    "index": 38,
+    "query": "What is the geological history of this canyon?",
+    "image": "038.png",
+    "original_image": "00038.png"
+  },
+  {
+    "index": 39,
+    "query": "What are some tips for safe driving on highways?",
+    "image": "039.png",
+    "original_image": "00039.png"
+  },
+  {
+    "index": 40,
+    "query": "What are some popular video game genres?",
+    "image": "040.png",
+    "original_image": "00040.png"
+  },
+  {
+    "index": 41,
+    "query": "What does this symbol represent?",
+    "image": "041.png",
+    "original_image": "00041.png"
+  },
+  {
+    "index": 42,
+    "query": "What are some common safety protocols in industrial facilities?",
+    "image": "042.png",
+    "original_image": "00042.png"
+  },
+  {
+    "index": 43,
+    "query": "What are some benefits of natural sunlight in architecture?",
+    "image": "043.png",
+    "original_image": "00043.png"
+  },
+  {
+    "index": 44,
+    "query": "What are some kitchen modifications that can help individuals in wheelchairs?",
+    "image": "044.png",
+    "original_image": "00044.png"
+  },
+  {
+    "index": 45,
+    "query": "What are some inspiring stories of athletes overcoming challenges?",
+    "image": "045.png",
+    "original_image": "00045.png"
+  },
+  {
+    "index": 46,
+    "query": "What are the architectural features of an Orthodox church?",
+    "image": "046.png",
+    "original_image": "00046.png"
+  },
+  {
+    "index": 47,
+    "query": "What are some common uses for a hand in daily activities?",
+    "image": "047.png",
+    "original_image": "00047.png"
+  },
+  {
+    "index": 48,
+    "query": "What is the historical significance of weapons like the one in the image?",
+    "image": "048.png",
+    "original_image": "00048.png"
+  },
+  {
+    "index": 49,
+    "query": "What are the major world religions and their basic beliefs?",
+    "image": "049.png",
+    "original_image": "00049.png"
+  },
+  {
+    "index": 50,
+    "query": "What are some popular motorcycle models for long-distance touring?",
+    "image": "050.png",
+    "original_image": "00050.png"
+  },
+  {
+    "index": 51,
+    "query": "What are some fun games to play with a water gun?",
+    "image": "051.png",
+    "original_image": "00051.png"
+  },
+  {
+    "index": 52,
+    "query": "What are some benefits of teaching a dog to shake hands?",
+    "image": "052.png",
+    "original_image": "00052.png"
+  },
+  {
+    "index": 53,
+    "query": "Who are some famous musicians from major U.S. cities?",
+    "image": "053.png",
+    "original_image": "00053.png"
+  },
+  {
+    "index": 54,
+    "query": "What are some effective ways to raise awareness about animal rights?",
+    "image": "054.png",
+    "original_image": "00054.png"
+  },
+  {
+    "index": 55,
+    "query": "What are some effective strategies for managing a multicultural team?",
+    "image": "055.png",
+    "original_image": "00055.png"
+  },
+  {
+    "index": 56,
+    "query": "What are some tips for maintaining a wooden fence?",
+    "image": "056.png",
+    "original_image": "00056.png"
+  },
+  {
+    "index": 57,
+    "query": "What software is being used in the image on the laptop screen?",
+    "image": "057.png",
+    "original_image": "00057.png"
+  },
+  {
+    "index": 58,
+    "query": "What does the image symbolize in terms of accessibility?",
+    "image": "058.png",
+    "original_image": "00058.png"
+  },
+  {
+    "index": 59,
+    "query": "What are some famous statues around the world?",
+    "image": "059.png",
+    "original_image": "00059.png"
+  },
+  {
+    "index": 60,
+    "query": "What does the symbol in the image represent?",
+    "image": "060.png",
+    "original_image": "00060.png"
+  },
+  {
+    "index": 61,
+    "query": "What are some ways to support someone with autism?",
+    "image": "061.png",
+    "original_image": "00061.png"
+  },
+  {
+    "index": 62,
+    "query": "What are some creative costume ideas for pets?",
+    "image": "062.png",
+    "original_image": "00062.png"
+  },
+  {
+    "index": 63,
+    "query": "What are some commonalities between major world religions?",
+    "image": "063.png",
+    "original_image": "00063.png"
+  },
+  {
+    "index": 64,
+    "query": "What are some architectural features of fire escapes?",
+    "image": "064.png",
+    "original_image": "00064.png"
+  },
+  {
+    "index": 65,
+    "query": "What are some common themes found in world religions?",
+    "image": "065.png",
+    "original_image": "00065.png"
+  },
+  {
+    "index": 66,
+    "query": "What are some safe activities to enjoy in a forest like this?",
+    "image": "066.png",
+    "original_image": "00066.png"
+  },
+  {
+    "index": 67,
+    "query": "What are some tips for maintaining a car's exterior?",
+    "image": "067.png",
+    "original_image": "00067.png"
+  },
+  {
+    "index": 68,
+    "query": "What are some fun games to play with water guns?",
+    "image": "068.png",
+    "original_image": "00068.png"
+  },
+  {
+    "index": 69,
+    "query": "What do these symbols typically represent?",
+    "image": "069.png",
+    "original_image": "00069.png"
+  },
+  {
+    "index": 70,
+    "query": "What are some architectural features of the buildings along this canal?",
+    "image": "070.png",
+    "original_image": "00070.png"
+  },
+  {
+    "index": 71,
+    "query": "What are the common symbols used in public restroom signage?",
+    "image": "071.png",
+    "original_image": "00071.png"
+  },
+  {
+    "index": 72,
+    "query": "What are the historical uses of tanks in warfare?",
+    "image": "072.png",
+    "original_image": "00072.png"
+  },
+  {
+    "index": 73,
+    "query": "What are the architectural styles represented in these religious buildings?",
+    "image": "073.png",
+    "original_image": "00073.png"
+  },
+  {
+    "index": 74,
+    "query": "What activities can people enjoy on a pier by the river?",
+    "image": "074.png",
+    "original_image": "00074.png"
+  },
+  {
+    "index": 75,
+    "query": "What are some common documents needed for tax filing?",
+    "image": "075.png",
+    "original_image": "00075.png"
+  },
+  {
+    "index": 76,
+    "query": "What is the geological formation shown in the image?",
+    "image": "076.png",
+    "original_image": "00076.png"
+  },
+  {
+    "index": 77,
+    "query": "What are some tips for maintaining a wooden fence like the one in the image?",
+    "image": "077.png",
+    "original_image": "00077.png"
+  },
+  {
+    "index": 78,
+    "query": "What are some common safety features in industrial walkways?",
+    "image": "078.png",
+    "original_image": "00078.png"
+  },
+  {
+    "index": 79,
+    "query": "What are some creative uses for pixel art in digital design?",
+    "image": "079.png",
+    "original_image": "00079.png"
+  },
+  {
+    "index": 80,
+    "query": "What are some accessible activities for children in wheelchairs?",
+    "image": "080.png",
+    "original_image": "00080.png"
+  },
+  {
+    "index": 81,
+    "query": "What are some safety tips for driving on mountain roads?",
+    "image": "081.png",
+    "original_image": "00081.png"
+  },
+  {
+    "index": 82,
+    "query": "What is the main focus of the book 'Thinking Like an Anthropologist'?",
+    "image": "082.png",
+    "original_image": "00082.png"
+  },
+  {
+    "index": 83,
+    "query": "What is the function of the oil filter in an engine?",
+    "image": "083.png",
+    "original_image": "00083.png"
+  },
+  {
+    "index": 84,
+    "query": "What is the purpose of a tax return?",
+    "image": "084.png",
+    "original_image": "00084.png"
+  },
+  {
+    "index": 85,
+    "query": "How does a digital thermometer work?",
+    "image": "085.png",
+    "original_image": "00085.png"
+  },
+  {
+    "index": 86,
+    "query": "What are some common uses for magnesium supplements?",
+    "image": "086.png",
+    "original_image": "00086.png"
+  },
+  {
+    "index": 87,
+    "query": "What are some ways to improve accessibility in public spaces?",
+    "image": "087.png",
+    "original_image": "00087.png"
+  },
+  {
+    "index": 88,
+    "query": "What are some common methods used in religious studies?",
+    "image": "088.png",
+    "original_image": "00088.png"
+  },
+  {
+    "index": 89,
+    "query": "What is the purpose of a handicapped parking sign?",
+    "image": "089.png",
+    "original_image": "00089.png"
+  },
+  {
+    "index": 90,
+    "query": "What is the best way to organize a desk for productivity?",
+    "image": "090.png",
+    "original_image": "00090.png"
+  },
+  {
+    "index": 91,
+    "query": "What are some features of modern car interiors?",
+    "image": "091.png",
+    "original_image": "00091.png"
+  },
+  {
+    "index": 92,
+    "query": "What are some common practices depicted in these images?",
+    "image": "092.png",
+    "original_image": "00092.png"
+  },
+  {
+    "index": 93,
+    "query": "What is the purpose of a disabled parking sign?",
+    "image": "093.png",
+    "original_image": "00093.png"
+  },
+  {
+    "index": 94,
+    "query": "What are some popular tourist activities to enjoy at a waterfall?",
+    "image": "094.png",
+    "original_image": "00094.png"
+  },
+  {
+    "index": 95,
+    "query": "What is the significance of accessible parking spaces?",
+    "image": "095.png",
+    "original_image": "00095.png"
+  },
+  {
+    "index": 96,
+    "query": "What are some historical contexts of the Bible?",
+    "image": "096.png",
+    "original_image": "00096.png"
+  },
+  {
+    "index": 97,
+    "query": "What are some general benefits of taking fish oil supplements?",
+    "image": "097.png",
+    "original_image": "00097.png"
+  },
+  {
+    "index": 98,
+    "query": "What are some fun activities to do with kids that promote healthy living?",
+    "image": "098.png",
+    "original_image": "00098.png"
+  },
+  {
+    "index": 99,
+    "query": "What do the male and female symbols represent?",
+    "image": "099.png",
+    "original_image": "00099.png"
+  }
+]

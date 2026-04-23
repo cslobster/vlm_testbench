@@ -1,0 +1,36 @@
+{
+  "model": "Qwen/Qwen3.5-9B",
+  "method": "arditi_replication_exact",
+  "filter_method": "logit_based_refusal_score",
+  "selected": {
+    "position": -4,
+    "layer": 11,
+    "refusal_score": -9.639021873474121,
+    "steering_score": 1.4950939416885376,
+    "kl_div_score": 1.1639552116394043
+  },
+  "direction_norm": 7.138916492462158,
+  "kl_threshold_used": 2.0,
+  "n_candidates_passed": 24,
+  "note": "Recovered from saved scores; strict KL<0.1 failed, relaxed to KL<2.0",
+  "filter_results": {
+    "method": "logit_based_refusal_score (Arditi exact)",
+    "threshold": 0.0,
+    "harmful_train": {
+      "in": 128,
+      "out": 35
+    },
+    "harmless_train": {
+      "in": 128,
+      "out": 47
+    },
+    "harmful_val": {
+      "in": 32,
+      "out": 31
+    },
+    "harmless_val": {
+      "in": 32,
+      "out": 30
+    }
+  }
+}

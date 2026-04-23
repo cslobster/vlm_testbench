@@ -1,0 +1,130 @@
+[
+  {
+    "instruction": "List three education benefits of studying a foreign language.",
+    "category": null
+  },
+  {
+    "instruction": "Give an example of a proverb that begins with the word \"Time\"",
+    "category": null
+  },
+  {
+    "instruction": "Find 3 websites that discuss the best practices for programming with Python.",
+    "category": null
+  },
+  {
+    "instruction": "Generate a list of 5 items needed to create your own website.",
+    "category": null
+  },
+  {
+    "instruction": "Describe the characteristics of the star and flag rating system.",
+    "category": null
+  },
+  {
+    "instruction": "Research about the history of the city of Tokyo and generate a summary of key facts.",
+    "category": null
+  },
+  {
+    "instruction": "Generate an analogy that compares two related concepts.",
+    "category": null
+  },
+  {
+    "instruction": "Construct a logic chain.",
+    "category": null
+  },
+  {
+    "instruction": "Name three reasons why people join clubs",
+    "category": null
+  },
+  {
+    "instruction": "Describe the reproduction cycle of an earthworm.",
+    "category": null
+  },
+  {
+    "instruction": "Arrange the following numbers in ascending order: 11, 9, 5, 1, 17",
+    "category": null
+  },
+  {
+    "instruction": "What are some examples of applications of natural language processing?",
+    "category": null
+  },
+  {
+    "instruction": "Which of the following is the most efficient sorting algorithm?",
+    "category": null
+  },
+  {
+    "instruction": "Given the phrase \u201cPlease walk the dog\u201d, tell what the speaker wants the other person to do.",
+    "category": null
+  },
+  {
+    "instruction": "Translate \"Je suis fatigu\u00e9\" into English.",
+    "category": null
+  },
+  {
+    "instruction": "Summarize how global warming affects the planet.",
+    "category": null
+  },
+  {
+    "instruction": "Generate a pleasant greeting for someone.",
+    "category": null
+  },
+  {
+    "instruction": "List three reasons why it is important to be organized.",
+    "category": null
+  },
+  {
+    "instruction": "Provide an example of artificial general intelligence.",
+    "category": null
+  },
+  {
+    "instruction": "Report the temperature of the following city - Dallas.",
+    "category": null
+  },
+  {
+    "instruction": "Describe a situation in which you would use the word \u201cenigma\u201d",
+    "category": null
+  },
+  {
+    "instruction": "Describe a traditional German meal.",
+    "category": null
+  },
+  {
+    "instruction": "Describe the artwork \"The Starry Night\" using adjectives",
+    "category": null
+  },
+  {
+    "instruction": "Create a new name for a school mascot based on the lion.",
+    "category": null
+  },
+  {
+    "instruction": "Identify the elements of a crime",
+    "category": null
+  },
+  {
+    "instruction": "Discuss a disadvantage of using artificial intelligence in the medical field.",
+    "category": null
+  },
+  {
+    "instruction": "Describe the impact of the recent economic shutdown.",
+    "category": null
+  },
+  {
+    "instruction": "Provide an example of a past participle verb.",
+    "category": null
+  },
+  {
+    "instruction": "Explain the concept of Interrupt Vector Tables in computer operating systems.",
+    "category": null
+  },
+  {
+    "instruction": "Create a recipe to make your own bread.",
+    "category": null
+  },
+  {
+    "instruction": "Name a popular diet.",
+    "category": null
+  },
+  {
+    "instruction": "Explain how to make homemade guacamole.",
+    "category": null
+  }
+]
